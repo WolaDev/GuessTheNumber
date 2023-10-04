@@ -1,0 +1,1 @@
+GuessTheNumber is a fun and addictive game where the player has to guess a randomly generated number within a certain range. With each guess, the app provides feedback to help the player get closer to the correct answer. The game is perfect for those looking for a quick and entertaining challenge.
