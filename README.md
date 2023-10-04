@@ -18,4 +18,4 @@
 # Upcoming Update:
 🔢 The range of numbers can be customized to make the game easier or harder. For example, the range could be set to 1-10, 1-100, or even 1-1000.
 
-🆓 GuessTheNumber is available for free download on the App Store and Google Play Store.
+🆓 GuessTheNumber will be available for free download on the App Store and Google Play Store.
